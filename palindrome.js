@@ -1,5 +1,5 @@
 str="abbba"
-let rev=str.toString().split("").reverse().join("");
+let rev= 0
    let mystr=str.toString();
    if(mystr==rev){
        console.log("Yes")
